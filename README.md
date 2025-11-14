@@ -25,12 +25,9 @@ Hi, I'm John! A recent Computer Science graduate and a **Google Certified Cybers
 
 ## 🔬 Projects
 
-| Project Focus | Link |
+| Project Title | Link |
 |-----------------------------------------------|----------------------------|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| *[Add your next project title here]* | *[Add link here]* |
-
-## 🛠️ My Toolbox
+| **Detection Lab: IDS, SIEM, & Network Monitoring** | <a href="https://google.com">View Project</a>|
 
 ### SIEM
 <div>
