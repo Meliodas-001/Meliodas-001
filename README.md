@@ -1,52 +1,63 @@
-# Hello, I'm SHEKONI JOHN ISEOLUWA
+# SHEKONI JOHN ISEOLUWA
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems with quick learning skills and adaptability.
+Hi, I'm John! A recent Computer Science graduate and a **Google Certified Cybersecurity Analyst**. I am passionate about securing digital environments and solving complex security challenges. With a foundation in problem-solving and a drive for continuous learning, I am actively seeking to launch my career and contribute my skills in a **SOC Analyst**, **Cybersecurity Analyst**, or **Penetration Tester** role.
 
-## Objective
+## 💡 Core Competencies
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Centre (SOC) as a Tier 1 Analyst or a Cybersecurity analyst.
+### 🛡️ Defensive Security (Blue Team)
+* **SIEM & Log Analysis:** Monitoring, analysis, and rule creation using tools like Splunk and Microsoft Sentinel.
+* **Network Security Monitoring:** Analyzing packet captures (Wireshark) and network flow data (Zeek).
+* **Intrusion Detection Systems (IDS):** Configuring and monitoring IDS tools like Snort.
+* **Endpoint Security:** Investigating and responding to threats using MS Defender and Velociraptor.
+* **Incident Response:** Familiar with the IR lifecycle (Preparation, Detection, Containment, Eradication, Recovery).
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]
+### ⚔️ Offensive Security (Red Team)
+* **Vulnerability Assessment:** Identifying and analyzing vulnerabilities in systems and applications.
+* **Network Scanning & Enumeration:** Utilizing tools like Nmap to map networks and discover services.
+* **Penetration Testing:** Basic understanding of methodologies for testing web applications and networks.
+* **Web Application Security:** Familiarity with OWASP Top 10 vulnerabilities and tools like Burp Suite.
 
-| Skill                                         | Associated Project         |
+### 💻 Core Technical Skills
+* **Operating Systems:** Windows & Linux environments.
+* **Networking:** Strong understanding of TCP/IP, OSI model, and common network protocols.
+* **Scripting:** Basic automation and scripting with Python and Bash.
+
+## 🔬 Projects
+
+| Project Focus | Link |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| *[Add your next project title here]* | *[Add link here]* |
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🛠️ My Toolbox
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-D1302D?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
-### Endpoint
+### Offensive Security
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-08A44F?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-CD0000?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF8000?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
 </div>
 
-### SIEM
+### Scripting & Automation
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GNU_Bash-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+## 📜 Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google%20Professional%20Cybersecurity%20Analyst-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-
-## Projects
-- <a href="https://google.com">Detection Lab</a>
